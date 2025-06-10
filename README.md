@@ -2,6 +2,8 @@
 
 O **Mixer para Windows v1.0**, desenvolvido por **jdfxop**, é um utilitário essencial para quem busca controle granular e centralizado do áudio no sistema Windows. Ele permite que você gerencie o volume de cada aplicação aberta de forma independente, oferecendo uma experiência sonora totalmente personalizada.
 
+---
+
 ### Principais Recursos
 
 Com o Mixer para Windows v1.0, você pode:
@@ -12,6 +14,8 @@ Com o Mixer para Windows v1.0, você pode:
 * **Controle Geral de Áudio:** Tenha acesso a uma visão geral de todas as fontes de áudio ativas.
 * **Em Breve:** Fique ligado para a função de mutar e desmutar todas as abas de uma só vez!
 
+---
+
 ### Tecnologias Utilizadas
 
 Este utilitário foi desenvolvido utilizando:
@@ -19,16 +23,22 @@ Este utilitário foi desenvolvido utilizando:
 * **Python:** A linguagem de programação principal.
 * **NirCMD:** Um utilitário de linha de comando para interações eficientes com o sistema operacional Windows.
 
+---
+
 ### Como Adquirir e Utilizar
 
 O **Mixer para Windows v1.0** é um software comercial distribuído como um arquivo executável (.exe).
 
-Para adquirir o software, visite o **portfólio oficial do desenvolvedor** para obter as informações mais atualizadas e links diretos para as plataformas de venda (Kiwify, Hotmart, etc.).
+Para adquirir o software, clique no link abaixo:
+
+* **Link de Venda:** [https://pay.kirvano.com/df7747c2-de13-4777-9170-0add5d0af5ff](https://pay.kirvano.com/df7747c2-de13-4777-9170-0add5d0af5ff)
 
 **Passos para Utilização:**
 
-1.  **Adquira e Baixe:** Compre e baixe o arquivo `.zip` do **Mixer para Windows v1.0** através do link encontrado no portfólio oficial.
+1.  **Adquira e Baixe:** Compre e baixe o arquivo `.zip` do **Mixer para Windows v1.0** através do link de venda fornecido.
 2.  **Execute:** Extraia o conteúdo do arquivo `.zip` e siga as instruções incluídas para executar o programa. A aplicação é portátil e não requer um processo de instalação complexo.
+
+---
 
 ### Reportar Bugs
 
@@ -37,6 +47,7 @@ Sua contribuição é fundamental para a melhoria contínua do software. Se enco
 * **Link para Reporte de Bugs:** [https://forms.gle/xdeKBLiyWsxvcKTu8](https://forms.gle/xdeKBLiyWsxvcKTu8)
 
 ---
+
 ### Licença
 
 Este projeto é um **software comercial e proprietário**. A compra de uma licença concede ao usuário o direito de uso pessoal e intransferível da aplicação.
@@ -49,11 +60,14 @@ Este projeto é um **software comercial e proprietário**. A compra de uma licen
 Todos os direitos são reservados ao desenvolvedor, **jdfxop**. A violação dos termos de uso resultará no cancelamento da licença e poderá acarretar medidas legais.
 
 ---
+
 ### Portfólio do Desenvolvedor
 
-O **Mixer para Windows v1.0** é um dos projetos de **jdfxop**. Para conhecer o portfólio completo, encontrar links de compra para este e outros softwares, ou explorar mais trabalhos, acesse a página oficial:
+O **Mixer para Windows v1.0** é um dos projetos de **jdfxop**. Para conhecer o portfólio completo, explorar mais trabalhos ou encontrar outros softwares, acesse a página oficial:
 
 * **Página Oficial:** [https://regaliainterno.github.io/jdfxop/](https://regaliainterno.github.io/jdfxop/)
+
+---
 
 ### Contato
 
